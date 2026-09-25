@@ -1,0 +1,6 @@
+{
+  "name": "Slingarch Creates",
+  "description": "A creative agency that helps brands, creators, and businesses build strong visual content and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
